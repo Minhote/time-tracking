@@ -3,3 +3,5 @@
 *.xd
 .DS_Store
 .prettierignore
+.OpenSSH_8.1p1,
+.debug1:

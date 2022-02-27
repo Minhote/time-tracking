@@ -2,15 +2,11 @@
 
 - [Overview]
   - [The challenge]
-  - [Screenshot]
   - [Links]
 - [My process]
   - [Built with]
-  - [What I learned]
-  - [Continued development]
-  - [Useful resources]
 - [Author]
-- [Acknowledgments]
+
 
 ## Overview
 
@@ -25,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Repositore URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Repositore URL: [https://github.com/Minhote/time-tracking]
+- Live Site URL: [https://time-tracking-frontendmentor-ec.netlify.app/]
 
 ## My process
 

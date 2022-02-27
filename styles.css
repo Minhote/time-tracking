@@ -164,6 +164,7 @@ body{
     display: inline-block;
     font-size: 2rem;
     margin: 20px 10px;
+    color: white;
 }
 
 .grid-item .content span{
@@ -282,10 +283,6 @@ body{
         color: white;
     }
 
-    .grid-item:nth-child(1) .content .img-description p {
-        color: black;
-    }
-
     .grid-item {
         height: auto;
     }
@@ -304,5 +301,6 @@ body{
     .grid-item .content p {
         margin: 0 10px;
         color: white;
+        font-size: 3.3rem;
     }
 }
